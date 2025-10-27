@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Parker 👋
 
 I'm a developer focused on building **efficient, patient-forward healthcare solutions** that leverage **AI and modern web technologies**.  
 My current work centers on improving clinical workflows, data accessibility, and documentation accuracy through intelligent software design.
